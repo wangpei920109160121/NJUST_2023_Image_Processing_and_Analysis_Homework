@@ -27,3 +27,10 @@
 - [Code](https://github.com/wangpei920109160121/NJUST_2023_Image_Processing_and_Analysis_Homework/blob/main/04_OpenCV_watershed/code.py)
 - Result
 ![Result](https://github.com/wangpei920109160121/NJUST_2023_Image_Processing_and_Analysis_Homework/blob/main/04_OpenCV_watershed/result.png)
+
+## Experiment5 : OTSU&Iterative Thresholding
+
+- Implement OTSU and iterative method for thresholding segmented images with Python.
+- [Code](https://github.com/wangpei920109160121/NJUST_2023_Image_Processing_and_Analysis_Homework/blob/main/05_OTSU%26Iterative_thresholding/code.py)
+- Result
+![Result](https://github.com/wangpei920109160121/NJUST_2023_Image_Processing_and_Analysis_Homework/blob/main/05_OTSU%26Iterative_thresholding/result.png)
